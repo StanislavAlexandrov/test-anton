@@ -1,0 +1,9 @@
+Homework Assignment:
+1. In the same folder with your other python projects, create a small txt document (any content) called ‘my-text.txt’
+2. Create a new python file and call it ‘open-file.py’ (or something similar). Write code to OPEN, WRITE and APPEND something to ‘my-text.txt’. For reference, see https://www.w3schools.com/python/python_file_handling.asp Keep in mind this: file = os.path.join(sys.path[0], ‘my-text.txt')
+3. Create a new python file and call it ‘enumerate’. In the file first create a list called values = ["a", "b", “c”]. Use ENUMERATE to print the values and count them (a 0, b 1….) For reference, see https://www.programiz.com/python-programming/methods/built-in/enumerate 
+4. Push all these files to your online repository. 
+5. Create any pull request for me. 
+6. OPTIONAL TASK (if you don’t have time, you don’t have to do it): https://leetcode.com/problems/palindrome-number/4. Push all these files to your online repository. 
+NNN4. Push all these files to your online repository. 
+new line
