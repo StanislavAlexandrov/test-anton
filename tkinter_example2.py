@@ -15,6 +15,7 @@ def openFile():
     txtarea.insert(END, data)
     tf.close()
 
+
 ws = Tk()
 ws.title("Test_open_file")
 ws.geometry("400x450")
